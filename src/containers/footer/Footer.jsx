@@ -17,20 +17,20 @@ const Footer = () => {
                   <img src={gpt3Logo} alt="logo" />
                   <p>Cyberwood Street, AJFK Road, All Rights Reserved</p>
               </div>
-              <div className="gpt3__footer-links_div">
+              <div className="gpt3__footer-links-div">
                   <h4>Links</h4>
                   <p>Overons</p>
                   <p>Social Media</p>
                   <p>Counters</p>
                   <p>Contact</p>
               </div>
-              <div className="gpt3__footer-links_div">
+              <div className="gpt3__footer-links-div">
                   <h4>Company</h4>
                   <p>Terms & Conditions</p>
                   <p>Privacy Policy</p>
                   <p>Contact</p>
               </div>
-              <div className="gpt3__footer-links_div">
+              <div className="gpt3__footer-links-div">
                   <h4>Get in touch</h4>
                   <p>Cyberwood Street, AJFK Road, All Rights Reserved</p>
                   <p>+234 80 743 0390 08</p>
